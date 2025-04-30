@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: 'Subtitle Time Offsetter',
 		description: 'Sync your SRT subtitle files with ease using our web app.',
-		url: 'https://subtiltle-shifter.vercel.app',
+		url: 'https://subtitle-shifter.vercel.app',
 	},
 	twitter: {
 		card: 'summary_large_image',
