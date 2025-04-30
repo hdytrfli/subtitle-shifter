@@ -17,7 +17,7 @@ export default function Home() {
 				<div className='flex items-center gap-2'>
 					<ThemeToggle />
 					<a
-						href='https://github.com/hidrart/subtitle-shifter'
+						href='https://github.com/hdytrfli/subtiltle-shifter'
 						target='_blank'
 						rel='noreferrer'>
 						<Button variant='outline' className='flex-none'>
